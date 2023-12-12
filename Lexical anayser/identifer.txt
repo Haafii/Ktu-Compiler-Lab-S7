@@ -1,0 +1,7 @@
+line: 1	main
+line: 2	num
+line: 2	y
+line: 3	num
+line: 6	num
+line: 7	y
+line: 11	y

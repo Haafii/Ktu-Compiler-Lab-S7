@@ -1,0 +1,5 @@
+line: 1	int
+line: 2	int
+line: 6	if
+line: 9	else
+line: 12	return
