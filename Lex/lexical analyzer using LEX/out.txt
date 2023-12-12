@@ -1,0 +1,24 @@
+Keyword: int 
+identifier: main 
+specialchar: ( 
+specialchar: ) 
+specialchar: { 
+Keyword: int 
+identifier: a 
+specialchar: , 
+identifier: b 
+operator: = 
+constant: 10 
+specialchar: ; 
+Keyword: char 
+identifier: buffer 
+specialchar: [ 
+constant: 100 
+specialchar: ] 
+specialchar: ; 
+identifier: printf 
+specialchar: ( 
+string: "Hello World" 
+specialchar: ) 
+specialchar: ; 
+specialchar: } 
